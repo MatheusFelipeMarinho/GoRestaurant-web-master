@@ -40,7 +40,7 @@
 ```bash
   # Faça um clone desse repositório
 
-  git clone https://github.com/MatheusFelipeMarinho/GoRestaurant-web
+  git clone https://github.com/MatheusFelipeMarinho/GoRestaurant-web-master
 
   # Navegue até a pasta e carregue as dependências
 
